@@ -57,5 +57,3 @@ Replace `filename` with the actual name of the file.
 - Work on a small project to apply what I've learned.
 
 ---
-
-Feel free to modify this README to reflect your specific learning experience, adding more details, reflections, or any other sections that you find relevant.
