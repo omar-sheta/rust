@@ -1,0 +1,1 @@
+Playing with rust language syntax and common 
