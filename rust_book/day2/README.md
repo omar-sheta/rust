@@ -1,7 +1,3 @@
-Certainly! The README file can be tailored to reflect your personal learning journey with Rust. Here's an example based on the code snippet you provided:
-
----
-
 # My Rust Learning Journey
 
 This repository documents my progress as I learn Rust, a programming language focused on performance, concurrency, and memory safety.
