@@ -1,2 +1,1 @@
-# rust
-Learning rust
+ln: /usr/local/bin/code: File exists
