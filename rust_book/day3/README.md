@@ -15,6 +15,6 @@ Progress Overview
 Day 1: Introduction to Rust, Setting Up, Hello World.
 Day 2: Understanding Ownership, Borrowing, and References.
 Day 3: Structs, Enums, and Pattern Matching.
-Connect with Me
+Connect with Me 
 
 Feel free to reach out to me with any questions, suggestions, or to share your own learning journey.
