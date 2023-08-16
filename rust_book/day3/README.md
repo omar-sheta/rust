@@ -1,24 +1,22 @@
-# My Rust Learning Journey
+# Day 3: Learning Rust Structs and Methods
 
-This repository documents my progress as I learn the Rust programming language through the official Rust book available on the [Rust website](https://doc.rust-lang.org/book/). The learning materials and exercises are organized by days.
+On Day 3 of my Rust learning journey, I explored structs, methods, instances, and more. Here's a summary of what I've learned and practiced.
 
-## What's Inside
+## Structs
+- **Named Fields**: Created custom data types using `struct`, defining named fields as in the `User` struct.
+- **Tuple Structs**: Also explored tuple structs that allow you to name the entire tuple, like `Color` and `Point`.
+- **Updating Instances**: Demonstrated how to update instances of structs and used struct update syntax.
 
-- **Daily Progress**: Each folder represents a day of my journey, containing code examples, exercises, and notes.
-- **Reflections**: My personal reflections and insights on the key concepts I've learned each day.
+## Methods and Functions
+- **Associated Functions**: Defined methods on structs using the `impl` block, as in the `Rectangle` struct.
+- **Ownership & Borrowing**: Practiced ownership rules within method signatures.
 
-## How to Navigate
+## Other Concepts
+- **Debug Printing**: Learned to use the `derive(Debug)` attribute for pretty-printing structs.
+- **Building Complex Functions**: Created functions that return structs and work with tuple parameters.
 
-- **By Days**: Browse through the folders organized by days to see my daily progress.
-- **Running the Code**: If you'd like to run any code examples, ensure Rust is installed on your system and use the Rust compiler (`rustc`) to compile and run the code.
+## Example Code
+The code of Day 3 includes practical examples such as calculating areas of rectangles, holding relationships between rectangles, and working with user data.
 
-## Progress Overview
-
-- **Day 1**: Introduction to Rust, Setting Up, Hello World.
-- **Day 2**: Understanding Ownership, Borrowing, and References.
-- **Day 3**: Structs, Enums, and Pattern Matching.
-
-
-## Connect with Me
-
-Feel free to [reach out to me](<omarwalaa50@gmail.com>) with any questions, suggestions, or to share your own learning journey.
+## Insights
+Day 3 provided a deeper understanding of Rust's powerful features related to structs and methods. I learned how to work with custom data types, define methods, and understand ownership within method calls.
