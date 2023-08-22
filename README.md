@@ -17,7 +17,7 @@ This repository documents my progress as I learn the Rust programming language t
 - **Day 1**: Introduction to Rust, Setting Up, Hello World.
 - **Day 2**: Understanding Ownership, Borrowing, and References.
 - **Day 3**: Structs
-
+- **Day 4**: Enum, pattern matching and option
 
 ## Connect with Me
 
