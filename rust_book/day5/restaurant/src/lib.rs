@@ -35,6 +35,8 @@ pub fn eat_at_restaurant() {
 
 fn serve_order() {}
 
+use core::num;
+
 use crate::front_of_house::hosting; // use keyword to bring module into scope
 // or use crate::front_of_house::hosting::add_to_waitlist;
 // or self::front_of_house::hosting::add_to_waitlist;
@@ -45,4 +47,8 @@ mod back_of_house{
     } 
     fn cook_order() {}
 
+}
+
+pub fn print_random_number(num: i32){
+    println!("Number printed from restaurant library {}", num);
 }
