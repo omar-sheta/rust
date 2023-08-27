@@ -18,7 +18,7 @@ This repository documents my progress as I learn the Rust programming language t
 - **Day 2**: Understanding Ownership, Borrowing, and References.
 - **Day 3**: Structs
 - **Day 4**: Enum, pattern matching and option
-
+- **Day 5**: The Module System in Rust
 ## Connect with Me
 
 Feel free to [reach out to me](<omarwalaa50@gmail.com>) with any questions, suggestions, or to share your own learning journey.
