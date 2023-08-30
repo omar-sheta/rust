@@ -19,6 +19,7 @@ This repository documents my progress as I learn the Rust programming language t
 - **Day 3**: Structs
 - **Day 4**: Enum, pattern matching and option
 - **Day 5**: The Module System in Rust
+- **Day 6**: Rust Common Collections - Vectors, Strings, and HashMaps
 ## Connect with Me
 
 Feel free to [reach out to me](<omarwalaa50@gmail.com>) with any questions, suggestions, or to share your own learning journey.
