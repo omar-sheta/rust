@@ -182,8 +182,4 @@ impl<T: Display + PartialOrd> Pair<T>{
     }
 } // we can implement methods on a generic type only if the type implements a certain trait
 
-impl<T: Display> ToString for T{ // blanket implementation of ToString trait for any type that implements Display trait
-    fn to_string(&self) -> String{
-        format!("({})", self)
-    }
-} // we can implement a trait on any type that implements another trait 
+// blanket implementations to be discussed later

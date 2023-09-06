@@ -20,6 +20,9 @@ This repository documents my progress as I learn the Rust programming language t
 - **Day 4**: Enum, pattern matching and option
 - **Day 5**: The Module System in Rust
 - **Day 6**: Rust Common Collections - Vectors, Strings, and HashMaps
+- **Day 7**: Advanced Rust Features - Error Handling and Generics
+- **Day 8**: Rust Traits and Lifetimes
+
 ## Connect with Me
 
 Feel free to [reach out to me](<omarwalaa50@gmail.com>) with any questions, suggestions, or to share your own learning journey.
