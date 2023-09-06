@@ -1,8 +1,3 @@
-To help with creating a README for day 8, which includes the topics of traits 
-and lifetimes, here is a breakdown and summary:
-
----
-
 ## Day 8: Rust Traits and Lifetimes
 
 ### Directory Structure
